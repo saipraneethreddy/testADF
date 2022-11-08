@@ -1,0 +1,9 @@
+{
+	"name": "DF-test-migration",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d6d6e58-d7d9-4926-8960-6f8bb8cab6fd",
+		"tenantId": "659e2994-65a5-49e4-b304-f9773e8307c4"
+	}
+}
