@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "DF-test-migration"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
